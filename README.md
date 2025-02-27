@@ -1,8 +1,9 @@
 # Move_Break
  Unity와 Chatgpt를 이용한 infinity 게임 개발
+ ![게임로고](https://github.com/nmmlee/Move_Break/blob/main/Assets/Images/Logo.png)
  - Chatgpt를 이용한 코드 구현에 대한 호기심으로 시작
  - Infinity 장르가 간단하면서도 즐겨했던 장르
- - 특정 플랫폼에 publish 해보고 싶은 동기 ![게임로고](https://github.com/nmmlee/Move_Break/blob/main/Assets/Images/Logo.png)
+ - 특정 플랫폼에 publish 해보고 싶은 동기 
  - https://madblockgames.itch.io/movebreak
    
 ## 게임 개발 기간
